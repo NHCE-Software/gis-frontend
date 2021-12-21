@@ -50,3 +50,5 @@ If you get rick rolled, you nailed every step and you are good to go. 🍾🍾
 ## File Structure
 
 Click here to find out
+
+## Contributing to this project
