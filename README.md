@@ -1,4 +1,4 @@
-# Gift Inventory system - Frontend
+# Gift Inventory system - Frontend 🎉
 
 Written in vue and with lot of love and shawarmas.
 
